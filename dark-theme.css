@@ -1,0 +1,6 @@
+/*dark theme*/
+:root {
+    --background-color: #111827;
+    --text-svg-color: #9CA3AF;
+    --hover-color: #374151;
+}

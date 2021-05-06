@@ -1,0 +1,6 @@
+/*light theme*/
+:root {
+    --background-color: #F3F4F6;
+    --text-svg-color: #374151;
+    --hover-color: #D1D5DB;
+}

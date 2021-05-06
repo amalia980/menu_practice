@@ -1,0 +1,26 @@
+/*mobile L*/
+@media all and (max-width: 425px) {
+    .nav-link,.head {
+        display: none;
+    }
+
+    .nav {
+        width: 3rem;
+    }
+
+    .logo {
+        margin: 1rem;
+    }
+
+    .icon-logo {
+        display: none;
+    }
+
+    .icon-wrap {
+        display: none;
+    }
+
+    svg {
+        margin: 1rem;
+    }
+}
